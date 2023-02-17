@@ -24,7 +24,7 @@ machinelearning:
   - item: Yolo
   - item: Darknet
 
-Tools:
+tools:
   - item: Git
   - item: Postman
   - item: MySQL
