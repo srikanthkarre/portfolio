@@ -1,0 +1,67 @@
+- company: Texas A & M University - Kingsville
+  url: https://www.tamuk.edu
+  time: Oct 2022 - Dec 2022
+  position: Graduate Teaching Assistant
+  location: Kingsville, USA
+  description: 
+  used:
+    - thing: PHP
+    - thing: AngularJS
+    - thing: HTML
+    - thing: CSS
+  
+- company: Chingari
+  url: https://chingari.io
+  time: Apr 2021 - Nov 2021
+  position: Data Scientist
+  location: Bengaluru, India
+  description: 
+  used:
+    - thing: Python
+    - thing: Yolo
+    - thing: Tensorflow
+    - thing: Keras
+    - thing: Kaggle
+    - thing: Google Colab
+    - thing: Machine Learning
+
+- company: Globussoft
+  url: https://globussoft.com
+  time: Jan 2020 - Mar 2021
+  position: Data Scientist
+  location: Bengaluru, India
+  description: 
+  used:
+    - thing: Python
+    - thing: Yolo
+    - thing: Darknet
+    - thing: Machine Learning
+    - thing: Postman
+    - thing: Kaggle
+    - thing: Google Colab
+    - thing: Web Scrapping
+
+- company: Beta Scientifics
+  url: http://betascientifics.com
+  time: May 2019 - Dec 2019
+  position: Software Developer
+  location: Bengaluru, India
+  description: 
+  used:
+    - thing: Java
+    - thing: Android Studio
+    - thing: Google Firebase
+    - thing: Android Emulator
+    - thing: kotlin
+
+- company: United Care Development Services - Yousee
+  url: https://yousee.one
+  time: May 2018 - Jul 2018
+  position: Software Developer Intern
+  location: Hyderabad, India
+  description: 
+  used:
+    - thing: PHP
+    - thing: AngularJS
+    - thing: HTML
+    - thing: CSS
