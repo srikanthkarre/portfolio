@@ -1,7 +1,7 @@
 - name: JARVIS - Virtual Home Assistant
   url: https://github.com/srikanthkarre/JARVIS
   code: https://github.com/srikanthkarre/JARVIS
-  description: Developed a voice module which converts voice commands from user into text commands using google speech-to-text (STT) engine. These commands are then sent to raspberry pi which sends control signals to home appliances. Developed an android application integrated with Vuforia Object Scanner library to identify objects and send appropriate signals to raspberry pi to control home appliances. The assistant is easy to use and specially designed for visually challenged, speech impaired and physically disabled people.
+  description: Developed a <strong>voice module</strong> which converts voice commands from user into text commands using google speech-to-text (STT) engine. These commands are then sent to raspberry pi which sends control signals to home appliances. Developed an android application using java integrated with Vuforia Object Scanner library to <strong>identify objects</strong> and send appropriate signals to raspberry pi to control home appliances. The assistant is easy to use and <strong>specially designed for visually challenged, speech impaired and physically disabled people</strong>.
   used:
     - thing: Python
     - thing: Java
@@ -13,7 +13,7 @@
 - name: Intern Rating
   url: 
   code: 
-  description: Developed a machine learning regression model to predict the rating of an intern based on his skills in various aspects as a freelancer for a company to evaluate the performance of new interns.
+  description: Developed a machine learning regression model to predict the rating of an intern based on his <strong>skills</strong> in various aspects as a freelancer for a company to evaluate the performance of new interns.
   used:
     - thing: Python
     - thing: Machine Learning
@@ -21,7 +21,7 @@
 - name: Multi Variable Linear Regression without Built-in Methods
   url: https://github.com/srikanthkarre/Linear-Reg-with-Multi-variables/blob/master/LinearReg%20with%20MultiVariable(no%20Built-in%20methods).ipynb
   code: https://github.com/srikanthkarre/Linear-Reg-with-Multi-variables/blob/master/LinearReg%20with%20MultiVariable(no%20Built-in%20methods).ipynb
-  description: Duplicate question detection using various classical feature engineering techniques and by learning high level features using Ensemble model of Siamese Network and XGBoost with Glove Embeddings. Our submission was among top 10% and later model was improved with <strong>state-of-the-art BERT embeddings to achieve accuracy of 92%</strong>.
+  description: The Aim of this project is to predict the price of the house, based on multiple features of the houses without using <strong>built-in Machine Learning model</strong>. Applied Gradient Discent to get the best theta values. <strong>Achieved accuracy equivalent to a built-in ML model</strong>.
   used:
     - thing: Python
     - thing: Machine Learning
@@ -29,7 +29,7 @@
 - name: LAN Chatting System
   url: 
   code: 
-  description: Developed a regular chatting application in which server can accept requests from multiple clients and clients can chat with server and among themself simultaniously.
+  description: Developed a regular chatting application using Java in which server can accept <strong>requests from multiple clients</strong> and clients can chat with server and among themself simultaniously.
   used:
     - thing: Java
 
