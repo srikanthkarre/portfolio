@@ -1,11 +1,13 @@
 - company: Texas A & M University - Kingsville
   url: https://www.tamuk.edu
   time: Oct 2022 - Dec 2022
-  position: Graduate Teaching Assistant
+  position: Graduate Research Assistant
   location: Kingsville, USA
-  description: <p>Assisting the professor in discussing and setting up the lab experiments and grading the lab reports for GeoSciences Lab and Graduate Physics Lab.<br></p>
+  description: <p>Setup of Hyperledger Fabric on raspberry pi and implementing Modular Blockchain network (segregating fabric network, channel and peers into different raspberry pi’s) using raspberry pi’s stack.<br></p>
   used:
-    - thing: 
+    - thing: Hyperledger Fabric
+    - thing: Modular Blockchain
+    - thing: RaspberryPi
   
 - company: Chingari
   url: https://chingari.io
