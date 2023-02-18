@@ -5,10 +5,7 @@
   location: Kingsville, USA
   description: Assisting the professor in discussing and setting up the lab experiments and grading the lab reports for GeoSciences Lab and Graduate Physics Lab.
   used:
-    - thing: PHP
-    - thing: AngularJS
-    - thing: HTML
-    - thing: CSS
+    - thing: 
   
 - company: Chingari
   url: https://chingari.io
