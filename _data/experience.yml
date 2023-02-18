@@ -30,7 +30,7 @@
   time: Jan 2020 - Mar 2021
   position: Data Scientist
   location: Bengaluru, India
-  description: <p><b>-</b> Worked closely with the content moderator team and developed Flask API integrated with Spam Video Detection Yolo model for identifying spam videos from video feed. This </strong>reduced the content moderator team manual overhead by 95%</strong>. <br><b>-</b> Built Content based News Recommendation system for suggesting similar news articles based on <strong>user’s interests</strong> and an API using Django to fetch user activity and send similar news articles as response. This system <strong>increased user engagement to the news by 20%</strong>. <br><b>-</b> Developed an Employee Activity Monitoring software using python and tkinter for Windows and Linux which can track applications used, websites visited, keystrokes pressed by each employee along with screenshots taken at specific intervals. All the data is then uploaded to the cloud server for each predetermined slot. This helps companies to <strong>evaluate the productivity</strong> of each employee.</p>
+  description: <b>-</b> Worked closely with the content moderator team and developed Flask API integrated with Spam Video Detection Yolo model for identifying spam videos from video feed. This </strong>reduced the content moderator team manual overhead by 95%</strong>. <br><b>-</b> Built Content based News Recommendation system for suggesting similar news articles based on <strong>user’s interests</strong> and an API using Django to fetch user activity and send similar news articles as response. This system <strong>increased user engagement to the news by 20%</strong>. <br><b>-</b> Developed an Employee Activity Monitoring software using python and tkinter for Windows and Linux which can track applications used, websites visited, keystrokes pressed by each employee along with screenshots taken at specific intervals. All the data is then uploaded to the cloud server for each predetermined slot. This helps companies to <strong>evaluate the productivity</strong> of each employee.
   used:
     - thing: Python
     - thing: Yolo
@@ -50,7 +50,7 @@
   time: May 2019 - Dec 2019
   position: Software Developer
   location: Bengaluru, India
-  description: <p>Collaborated with the gas station and cab services and deployed an android application using Java and Google Firebase internally in an organization, where cab drivers can raise a gas filling request for a custom amount. These requests are forwarded to both gas station and cab services managers. The requests are then approved later. This helps gas stations and cab services to maintain <strong>transparent transaction records</strong> every month, <strong>clear bills on time</strong> with ease, and track cab services <strong>monthly spending</strong> on gas</strong>.</p>
+  description: Collaborated with the gas station and cab services and deployed an android application using Java and Google Firebase internally in an organization, where cab drivers can raise a gas filling request for a custom amount. These requests are forwarded to both gas station and cab services managers. The requests are then approved later. This helps gas stations and cab services to maintain <strong>transparent transaction records</strong> every month, <strong>clear bills on time</strong> with ease, and track cab services <strong>monthly spending</strong> on gas</strong>.
   used:
     - thing: Java
     - thing: Android Studio
@@ -63,7 +63,7 @@
   time: May 2018 - Jul 2018
   position: Software Developer Intern
   location: Hyderabad, India
-  description: <p>Developed a real-time web application using PHP and AngularJs to maintain complete details of one or more bank account transactions of an organization which helped the organization to monitor <strong>all transactions</strong> made from <strong>all bank accounts</strong> the organization has.</p>
+  description: Developed a real-time web application using PHP and AngularJs to maintain complete details of one or more bank account transactions of an organization which helped the organization to monitor <strong>all transactions</strong> made from <strong>all bank accounts</strong> the organization has.
   used:
     - thing: PHP
     - thing: AngularJS
