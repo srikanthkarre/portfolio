@@ -15,8 +15,7 @@
   time: Apr 2021 - Nov 2021
   position: Data Scientist
   location: Bengaluru, India
-  description: <p>Worked on Shop the Look project which enables users to <strong>shop the same or similar clothes</strong> and other fashion accessories from the videos users watch on social networking platform Chingari. Built a <strong>Deep Learning CNN outfit colour identification model which identifies colour of clothes with 94% accuracy</strong>, and goggles colour identification model using <strong>Scikit-learn for determining goggles colour by 96% accuracy</strong>. Built a <strong>collar detection model</strong> trained in darknet with yolov4 architecture for identifying different types of collars of shirts
-and tshirts.
+  description: <p>Worked on Shop the Look project which enables users to <strong>shop the same or similar clothes</strong> and other fashion accessories from the videos users watch on social networking platform Chingari. Built a <strong>Deep Learning CNN outfit colour identification model which identifies colour of clothes with 94% accuracy</strong>, and goggles colour identification model using <strong>Scikit-learn for determining goggles colour by 96% accuracy</strong>. Built a <strong>collar detection model</strong> trained in darknet with yolov4 architecture for identifying different types of collars of shirts and tshirts.</p>
   used:
     - thing: Python
     - thing: Yolo
