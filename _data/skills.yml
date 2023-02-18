@@ -31,4 +31,6 @@ other:
   - item: Linux
   - item: Flask
   - item: DJango
+  - item: fastAPI
+  - item: Swagger
   - item: Hyperledger Fabric
