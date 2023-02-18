@@ -11,13 +11,13 @@
         display: block;
       }
     }
+    &__company {
+      font-weight: 700;
+    }
     p {
       margin-top: 20px;
       font-size: 0.8rem;
       margin-bottom: 20px;
-    }
-    &__company {
-      font-weight: 700;
     }
     &__time {
       font-size: 0.9rem;
