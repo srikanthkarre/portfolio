@@ -1,6 +1,6 @@
 - company: Texas A & M University - Kingsville
   url: https://www.tamuk.edu
-  time: Oct 2022 - Dec 2022
+  time: Jul 2022 - Dec 2022
   position: Graduate Research Assistant
   location: Kingsville, USA
   description: <p>Setup of Hyperledger Fabric on raspberry pi and implementing Modular Blockchain network (segregating fabric network, channel and peers into different raspberry pi’s) using raspberry pi’s stack.<br></p>
