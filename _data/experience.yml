@@ -1,3 +1,27 @@
+- company: Quantum Info System
+  url: 
+  time: Oct 2023 - Present
+  position: Java Full Stack Developer
+  location: Kingsville, USA
+  description: <p><b>-</b>Designed an eCommerce web application for a warehouse DealDepot, establishing their online presence and enabling seamless product browsing and purchases.<br><b>-</b> Engineered the front-end using React, delivering a responsive and user-friendly interface, and built a scalable back-end with Spring Boot and its ecosystem capable of handling over 10,000 daily API requests.<br><b>-</b> Deployed the application on AWS Cloud (EC2, S3, CloudWatch), ensuring 99.9% uptime and enabling seamless scalability to support growing user demand.<br></p>
+  used:
+    - thing: Java
+    - thing: React
+    - thing: Spring Boot
+    - thing: Spring Security
+    - thing: JWT
+    - thing: Hibernate
+    - thing: Spring Data JPA
+    - thing: AWS
+    - thing: EC2
+    - thing: S3
+    - thing: Lambda
+    - thing: RESTful
+    - thing: JUnit
+    - thing: Mockito
+    - thing: Postman
+    - thing: Docker
+
 - company: Texas A & M University - Kingsville
   url: https://www.tamuk.edu
   time: Jul 2022 - Dec 2022
@@ -9,57 +33,61 @@
     - thing: Modular Blockchain
     - thing: RaspberryPi
   
-- company: Chingari
-  url: https://chingari.io
-  time: Apr 2021 - Nov 2021
-  position: Data Scientist
-  location: Bengaluru, India
-  description: <p><b>-</b> Worked on Shop the Look project which enables users to <strong>shop the same or similar clothes</strong> and other fashion accessories from the videos users watch on social networking platform Chingari. <br><b>-</b> Built a Deep Learning CNN outfit colour identification model which identifies colour of clothes with <strong>94% accuracy</strong>, and goggles colour identification model using Scikit-learn for determining goggles colour by <strong>96% accuracy</strong>. <br><b>-</b> Built a collar detection model trained in <strong>darknet</strong> with <strong>yolov4</strong> architecture for identifying different types of collars of shirts and tshirts.<br></p>
-  used:
-    - thing: Python
-    - thing: Yolo
-    - thing: Tensorflow
-    - thing: Keras
-    - thing: Kaggle
-    - thing: Google Colab
-    - thing: Machine Learning
+# - company: Chingari
+#   url: https://chingari.io
+#   time: Apr 2021 - Nov 2021
+#   position: Data Scientist
+#   location: Bengaluru, India
+#   description: <p><b>-</b> Worked on Shop the Look project which enables users to <strong>shop the same or similar clothes</strong> and other fashion accessories from the videos users watch on social networking platform Chingari. <br><b>-</b> Built a Deep Learning CNN outfit colour identification model which identifies colour of clothes with <strong>94% accuracy</strong>, and goggles colour identification model using Scikit-learn for determining goggles colour by <strong>96% accuracy</strong>. <br><b>-</b> Built a collar detection model trained in <strong>darknet</strong> with <strong>yolov4</strong> architecture for identifying different types of collars of shirts and tshirts.<br></p>
+#   used:
+#     - thing: Python
+#     - thing: Yolo
+#     - thing: Tensorflow
+#     - thing: Keras
+#     - thing: Kaggle
+#     - thing: Google Colab
+#     - thing: Machine Learning
 
-- company: Globussoft
-  url: https://globussoft.com
-  time: Jan 2020 - Mar 2021
-  position: Data Scientist
-  location: Bengaluru, India
-  description: <p><b>-</b> Worked closely with the content moderator team and developed Flask API integrated with Spam Video Detection Yolo model for identifying spam videos from video feed. This </strong>reduced the content moderator team manual overhead by 95%</strong>. <br><b>-</b> Built Content based News Recommendation system for suggesting similar news articles based on <strong>user’s interests</strong> and an API using Django to fetch user activity and send similar news articles as response. This system <strong>increased user engagement to the news by 20%</strong>. <br><b>-</b> Developed an Employee Activity Monitoring software using python and tkinter for Windows and Linux which can track applications used, websites visited, keystrokes pressed by each employee along with screenshots taken at specific intervals. All the data is then uploaded to the cloud server for each predetermined slot. This helps companies to <strong>evaluate the productivity</strong> of each employee.<br></p>
-  used:
-    - thing: Python
-    - thing: Yolo
-    - thing: Darknet
-    - thing: Machine Learning
-    - thing: Postman
-    - thing: Kaggle
-    - thing: Google Colab
-    - thing: Web Scrapping
-    - thing: Flask
-    - thing: Django
-    - thing: fastAPI
-    - thing: Swagger
+# - company: Globussoft
+#   url: https://globussoft.com
+#   time: Jan 2020 - Mar 2021
+#   position: Data Scientist
+#   location: Bengaluru, India
+#   description: <p><b>-</b> Worked closely with the content moderator team and developed Flask API integrated with Spam Video Detection Yolo model for identifying spam videos from video feed. This </strong>reduced the content moderator team manual overhead by 95%</strong>. <br><b>-</b> Built Content based News Recommendation system for suggesting similar news articles based on <strong>user’s interests</strong> and an API using Django to fetch user activity and send similar news articles as response. This system <strong>increased user engagement to the news by 20%</strong>. <br><b>-</b> Developed an Employee Activity Monitoring software using python and tkinter for Windows and Linux which can track applications used, websites visited, keystrokes pressed by each employee along with screenshots taken at specific intervals. All the data is then uploaded to the cloud server for each predetermined slot. This helps companies to <strong>evaluate the productivity</strong> of each employee.<br></p>
+#   used:
+#     - thing: Python
+#     - thing: Yolo
+#     - thing: Darknet
+#     - thing: Machine Learning
+#     - thing: Postman
+#     - thing: Kaggle
+#     - thing: Google Colab
+#     - thing: Web Scrapping
+#     - thing: Flask
+#     - thing: Django
+#     - thing: fastAPI
+#     - thing: Swagger
 
 - company: Beta Scientifics
   url: http://betascientifics.com
-  time: May 2019 - Dec 2019
+  time: May 2019 - Dec 2021
   position: Software Developer
   location: Bengaluru, India
-  description: <p>Collaborated with the gas station and cab services and deployed an android application using Java and Google Firebase internally in an organization, where cab drivers can raise a gas filling request for a custom amount. These requests are forwarded to both gas station and cab services managers. The requests are then approved later. This helps gas stations and cab services to maintain <strong>transparent transaction records</strong> every month, <strong>clear bills on time</strong> with ease, and track cab services <strong>monthly spending</strong> on gas</strong>.<br></p>
+  description: <p><b>-</b> Spearheaded the development of "Soujanya," a full-stack mobile application streamlining gas filling requests for cab services, reducing manual workload by 80%.<br><b>-</b> Architected and implemented a cross-platform mobile app using React Native and React Navigation, featuring real-time order tracking and push notifications.<br><b>-</b> Designed and built a secure backend with Spring Boot, Spring Security, JWT, and PostgreSQL, ensuring robust data management and user authentication.<br><b>-</b> Integrated AWS services including Elastic Beanstalk for seamless deployment, API Gateway for RESTful APIs, and WebSocket APIs for real-time order updates and driver location tracking.<br><b>-</b> Implemented automated CI/CD pipelines using Bitbucket Pipelines, reducing deployment time by 60% and improving team productivity.<br><b>-</b> Enabled transparent transaction tracking, automated billing, and monthly expenditure analytics.<br></p>
   used:
     - thing: Java
-    - thing: Android Studio
-    - thing: Google Firebase
-    - thing: Android Emulator
-    - thing: kotlin
+    - thing: React
+    - thing: Spring Boot
+    - thing: Spring Security
+    - thing: JWT
+    - thing: Hibernate
+    - thing: PostgreSQL
+    - thing: AWS
+    - thing: CI/CD
 
 - company: United Care Development Services - Yousee
   url: https://yousee.one
-  time: May 2018 - Jul 2018
+  time: May 2018 - Nov 2018
   position: Software Developer Intern
   location: Hyderabad, India
   description: <p>Developed a real-time web application using PHP and AngularJs to maintain complete details of one or more bank account transactions of an organization which helped the organization to monitor <strong>all transactions</strong> made from <strong>all bank accounts</strong> the organization has.<br></p>

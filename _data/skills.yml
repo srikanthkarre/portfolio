@@ -1,35 +1,55 @@
 languages:
-  - item: Python
-  - item: C
-  - item: C++
   - item: Java
+  - item: Python
+  - item: C++
   - item: JavaScript
   - item: SQL
+
+front-end:
+  - item: HTML
+  - item: CSS
+  - item: React
+  - item: React Native
   - item: PHP
   - item: AngularJS
 
-cloud:
-  - item: AWS Lambda
-  - item: Docker
-  - item: Google Cloud Platform
-  - item: AWS API Gateway
+back-end:
+  - item: Spring Boot
+  - item: Spring MVC
+  - item: Spring Security
+  - item: Spring JPA
+  - item: Hibernate
+  - item: RESTful APIs
+  - item: 
 
-machinelearning:
+databases:
+  - item: MySQL
+  - item: PostgreSQL
+  - item: MongoDB
+
+devops & cloud:
+  - item: AWS
+  - item: Docker
+  - item: Jenkins
+  - item: CI/CD Pipelines
+
+machine learning:
+  - item: Pandas
+  - item: Numpy
   - item: PyTorch
   - item: TensorFlow
   - item: Keras
   - item: Scikit-learn
-  - item: Colab
-  - item: Kaggle
-  - item: Yolo
-  - item: Darknet
+  - item: NLP
 
-other:
+testing & other tools:
   - item: Git
+  - item: Jira
+  - item: Bitbucket
   - item: Postman
-  - item: MySQL
-  - item: Linux
-  - item: Flask
+  - item: JUnit
+  - item: Mockito
+  - item: Selenium
   - item: DJango
   - item: fastAPI
   - item: Swagger
